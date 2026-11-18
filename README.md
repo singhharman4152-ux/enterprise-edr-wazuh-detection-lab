@@ -13,7 +13,7 @@ Deployed an on-premises, enterprise-grade Security Information and Event Managem
 
 ## 2. Lab Architecture & Telemetry Pipeline
 
-
+```text
   [ Monitored Host: Windows 11 ] ──(Encrypted Agent Port 1514)──> [ Wazuh SIEM Server: Ubuntu / OVA ]
    • Host: Harmandeep-Win11 (192.168.43.64)                        • IP: 192.168.43.217 (Bridged)
    • Windows Security Logs & Sysmon                               • Wazuh Indexer & Analysis Engine
