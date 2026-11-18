@@ -20,7 +20,7 @@ Deployed an on-premises, enterprise-grade Security Information and Event Managem
                                                                  • Live Threat Hunting Console
                                                                  • Vulnerability Prioritization
                                                                  • CIS Hardening Benchmarks
-
+```
 ## 3. Real Telemetry & Key Findings
 
 ### Automated Vulnerability Management (VMDR Integration)
